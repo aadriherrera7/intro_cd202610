@@ -26,4 +26,7 @@ Formato de Texto
 
 ~~tachado~~
 
+`código en línea`
+
+> cita o blockquote
 
