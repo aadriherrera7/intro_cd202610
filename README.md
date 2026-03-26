@@ -15,3 +15,6 @@ print("hola mundo")
 Imagen simple
 ![Texto alternativo](londoooon!💌.jpg)
 
+Imagen desde URL externa
+![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
+
