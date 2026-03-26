@@ -13,5 +13,5 @@ print("hola mundo")
 ###### Nivel 6 (H6)
 
 Imagen simple
-![Texto alternativo](carrito01.jpg)
+![Texto alternativo](londoooon!💌.jpg)
 
