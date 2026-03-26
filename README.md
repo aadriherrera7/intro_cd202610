@@ -16,5 +16,5 @@ Imagen simple
 ![Texto alternativo](londoooon!💌.jpg)
 
 Imagen desde URL externa
-![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
+![Logo](https://github.com/aadriherrera7/intro_cd202610/blob/main/londoooon!%F0%9F%92%8C.jpg)
 
