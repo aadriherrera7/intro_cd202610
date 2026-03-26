@@ -18,3 +18,12 @@ Imagen simple
 Imagen desde URL externa
 ![Logo](https://github.com/aadriherrera7/intro_cd202610/blob/main/londoooon!%F0%9F%92%8C.jpg)
 
+Formato de Texto
+
+**negrita**
+
+*cursiva*
+
+~~tachado~~
+
+
